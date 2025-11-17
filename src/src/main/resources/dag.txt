@@ -1,0 +1,10 @@
+# DAG dirigido para testar ordenação topológica
+DIRECTED true
+V A
+V B
+V C
+V D
+E A B 1
+E A C 1
+E B D 1
+E C D 1

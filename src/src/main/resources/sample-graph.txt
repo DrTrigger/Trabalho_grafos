@@ -1,0 +1,10 @@
+# Exemplo de arquivo de entrada
+DIRECTED false
+V A
+V B
+V C
+V D
+E A B 1.0
+E B C 2.5
+E C D 1.2
+E A D 10.0
